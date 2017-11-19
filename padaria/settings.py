@@ -27,7 +27,7 @@ SECRET_KEY = '#@kp#qgjos!qlnaho2(=x21v@y9wo!=suco-cd%ptvy)6zbd@b'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['padariaestoque.herokuapp.com.br', '127.0.0.1']
+ALLOWED_HOSTS = ['padariaestoque.herokuapp.com', '127.0.0.1']
 
 # Application definition
 
