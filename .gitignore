@@ -1,0 +1,8 @@
+venv
+*.pyc
+staticfiles
+.env
+.vscode
+vscode
+vscode/
+db.sqlite3
